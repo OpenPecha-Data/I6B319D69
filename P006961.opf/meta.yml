@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4782
   title: བློ་གསར་རིགས་ལམ་མིག་འབྱེད
-  volume: ''
+  volume:
+    6e4710ac2e6c4cdebdd5b7a64f28d45d:
+      image_group_id: I1KG4843
+      title: Volume 1 of blo gsar rigs lam mig 'byed
+      volume_number: 1
+      total_pages: 140
   author: ''
+ebook_metadata:
+  title: བློ་གསར་རིགས་ལམ་མིག་འབྱེད
+  author: ''
+  sku: P006961
+  cover: cover.jpg
+  layers:
+  - pagination
